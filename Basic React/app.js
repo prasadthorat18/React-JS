@@ -1,9 +1,11 @@
 // chapter 2 - Import and Export
 import { age } from "./script.js";
 import naam from "./script.js";
+import { skills } from "./script.js";
 
 console.log(age);
 console.log(naam);
+console.log(skills);
 
 // chapter 1 - ReactJs Overview
 let h1 = document.createElement("h1");
