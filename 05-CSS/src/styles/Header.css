@@ -1,0 +1,8 @@
+.head {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 20px;
+  margin: 5px;
+}

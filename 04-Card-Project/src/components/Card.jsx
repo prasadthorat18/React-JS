@@ -4,6 +4,7 @@ import { Bookmark } from "lucide-react";
 const Card = (props) => {
   return (
     <div className="card">
+
       <div>
         <div className="top">
           <img src={props.logo} alt="" />
@@ -31,6 +32,7 @@ const Card = (props) => {
         </div>
         <button>Apply now</button>
       </div>
+      
     </div>
   );
 };
