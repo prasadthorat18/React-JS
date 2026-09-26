@@ -1,0 +1,43 @@
+body,html{
+  margin: 0;
+  padding: 0;
+}
+
+.fy {
+  display: flex;
+
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  color: purple;
+}
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 5px;
+  /* margin-bottom: 20px; */
+}
+
+input {
+  padding: 5px 20px;
+  margin: 20px;
+}
+
+.Page1 {
+  height: 78vh;
+  width: 100%;
+  background-color: #000;
+}
+.Page2 {
+  height: 100vh;
+  width: 100%;
+  background-color: #111;
+}
+.Page3 {
+  height: 100vh;
+  width: 100%;
+  background-color: #222;
+}
