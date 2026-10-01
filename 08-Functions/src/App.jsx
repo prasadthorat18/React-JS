@@ -23,9 +23,7 @@ const App = () => {
           onDoubleClick={() => {
             console.log("hey guys");
           }}
-        >
-          Change user
-        </button>
+        >Change user</button>
       </div>
 
       <input onChange={userTyping} type="text" placeholder="Enter name" />

@@ -1,8 +1,13 @@
 import React from "react";
 
 const Timepass = () => {
-  const PageScrolling = (elem)=> {
-    console.log("page scrolling at spped", elem);
+  const PageScrolling = (val)=> {
+    if(val > 0){
+      console.log("varun khali scrolling");
+    }
+    else{
+      console.log("khaun var scrolling");
+    }
   }
 
   return (
