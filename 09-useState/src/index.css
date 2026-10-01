@@ -1,0 +1,16 @@
+button {
+    padding: 20px 40px;
+    margin: 10px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 10px;
+}
+
+.counter{
+    font-weight: 900;
+    font-size: 60px;
+    padding: 40px 60px;
+    background-color: red;
+    width: fit-content;
+    margin-left: 22%;
+}
