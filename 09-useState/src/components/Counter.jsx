@@ -14,7 +14,7 @@ const Counter = () => {
     setValue(value+100)
   }
   function Jump100_Minus (){
-    setValue(value+100)
+    setValue(value - 100)
   }
 
   return (
